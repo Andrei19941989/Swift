@@ -2,7 +2,7 @@
 //  VCExt.swift
 //  WordsGame2
 //
-//  Created by Влад Мади on 11.02.2022.
+
 //
 
 import UIKit
